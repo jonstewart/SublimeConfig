@@ -1,8 +1,10 @@
 {
-	"auto_upgrade_last_run": 1353371862,
+	"auto_upgrade_last_run": 1353380750,
 	"installed_packages":
 	[
+		"Alignment",
 		"Autocomplete Javascript with Method Signature",
+		"Git",
 		"Package Control",
 		"Theme - Soda"
 	]
